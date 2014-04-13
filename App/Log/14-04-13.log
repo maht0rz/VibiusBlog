@@ -1,0 +1,150 @@
+
+20:39:44 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/Blog/post/My-first-blog-post! | Method 'post' of controler: postController has been called =\= Debugger: Undefined variable: name, /var/www/Blog/Core/Cache/Cache.php at line 96
+
+20:40:00 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/Blog/post/My-first-blog-post! | Method 'post' of controler: postController has been called =\= Debugger: Undefined variable: name, /var/www/Blog/Core/Cache/Cache.php at line 96
+
+20:40:22 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/Blog/post/My-first-blog-post! | Method 'post' of controler: postController has been called
+
+20:41:12 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Debugger: Cannot use object of type Storage as array, /var/www/Blog/App/Controllers/postController.php at line 20
+
+20:41:41 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/Blog/post/My-first-blog-post! | Method 'post' of controler: postController has been called =\= Debugger: Undefined variable: post, /var/www/Blog/App/Controllers/postController.php at line 8
+
+20:41:49 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-post! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:42:03 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/Blog/post/My-first-blog-post! | Method 'post' of controler: postController has been called
+
+20:42:42 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-post! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:42:44 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= No post found! =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Debugger: No post found!, /var/www/Blog/App/Controllers/postController.php at line 34
+
+20:42:56 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:42:57 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:04 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:05 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:05 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:11 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:22 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:23 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:23 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:23 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:23 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:25 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:39 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:39 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:46 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:46 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:49 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:49 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:53 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:53 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:56 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:43:57 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:44:01 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:44:01 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:44:17 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Loading Helper: URL
+
+20:44:38 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Debugger: No post found!, /var/www/Blog/App/Controllers/postController.php at line 29
+
+20:47:53 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= No post found! =\= Route requested(success):  	/Blog/post/My-first-blog-asffaspost! | Method 'post' of controler: postController has been called =\= Debugger: No post found!, /var/www/Blog/App/Controllers/postController.php at line 37 =\= Loading Helper: URL
+
+20:47:54 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/Blog/ | Method 'welcome' of controler: postController has been called
+
+20:48:08 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: Filter =\= Route requested(success):  	/Blog/add | Method 'add' of controler: postController has been called =\= Loading Helper: URL
+
+20:48:25 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: Filter =\= Loading Helper: URL =\= Route requested(success):  	/Blog/add | Method 'add' of controler: postController has been called
+
+20:48:25 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/Blog/ | Method 'welcome' of controler: postController has been called
+
+20:51:07 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: Filter =\= Loading Helper: URL =\= Route requested(success):  	/Blog/add | Method 'add' of controler: postController has been called
+
+20:51:07 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/Blog/ | Method 'welcome' of controler: postController has been called
+
+22:02:01 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:19:55 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:19:56 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:19:56 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:25:00 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:25:01 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:25:01 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:25:01 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:25:02 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:25:03 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:29:35 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:29:36 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:29:37 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:29:38 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
+
+22:30:16 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called =\= Debugger: unserialize(): Error at offset 0 of 67 bytes, /var/www/test/Core/Storager/Storage.php at line 593
+
+22:30:17 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called =\= Debugger: unserialize(): Error at offset 0 of 67 bytes, /var/www/test/Core/Storager/Storage.php at line 593
+
+22:30:31 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Debugger: Undefined variable: array, /var/www/test/Core/Storager/Storage.php at line 590 =\= Loading Helper: URL
+
+22:30:32 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Debugger: Undefined variable: array, /var/www/test/Core/Storager/Storage.php at line 590 =\= Loading Helper: URL
+
+22:30:32 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Debugger: Undefined variable: array, /var/www/test/Core/Storager/Storage.php at line 590 =\= Loading Helper: URL
+
+22:30:54 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:54 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:55 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:55 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:55 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:56 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:56 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:56 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:57 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:57 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:57 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:58 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:30:58 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL
+
+22:31:05 | SessionID: 4lhl806a8e4343ibn1tb891tn5 =\= Loading Helper: URL =\= Route requested(success):  	/test/ | Method 'welcome' of controler: postController has been called
